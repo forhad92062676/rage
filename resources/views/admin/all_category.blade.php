@@ -60,7 +60,7 @@
                                     <td>
                                         <a data-category="{{ json_encode(['id' => $category->id, 'image'=> $category->photo, 'name' => $category->name, 'slug' => $category->slug]) }}" class="edit btn btn-primary shadow btn-xs sharp"><i class="fa fa-edit"></i></a>
                                         <a data-id="{{ $category->id }}" data-name="{{ $category->name }}" class="delete btn btn-danger shadow btn-xs sharp"><i class="fa fa-trash"></i></a>
-                                    </td>
+                                    </td>asdjpofpsaufgawef
                                 </tr>
 
                                 @endforeach
